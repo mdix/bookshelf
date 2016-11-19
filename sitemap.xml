@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mdix.github.io/bookshelf/</loc>
+    <lastmod>2016-11-19T23:39:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mdix.github.io/bookshelf/post/good-to-great/</loc>
+    <lastmod>2016-11-19T23:39:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mdix.github.io/bookshelf/post/butterfly-effect/</loc>
+    <lastmod>2016-11-19T23:39:12+01:00</lastmod>
+  </url>
+  
+</urlset>

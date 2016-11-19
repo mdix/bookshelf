@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcs Hugo Site </title>
+    <link>https://mdix.github.io/bookshelf/index.xml</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-11-19 23:39:32 &#43;0100 CET</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://mdix.github.io/bookshelf/post/good-to-great/</link>
+          <pubDate>Sat, 19 Nov 2016 23:39:32 CET</pubDate>
+          <author></author>
+          <guid>https://mdix.github.io/bookshelf/post/good-to-great/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>butterfly effect</title>
+          <link>https://mdix.github.io/bookshelf/post/butterfly-effect/</link>
+          <pubDate>Sat, 19 Nov 2016 23:39:12 CET</pubDate>
+          <author></author>
+          <guid>https://mdix.github.io/bookshelf/post/butterfly-effect/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
