@@ -1,0 +1,3 @@
+baseurl = "https://mdix.github.io/bookshelf/"
+title = "Marcs Hugo Site"
+languageCode = "en-us"
